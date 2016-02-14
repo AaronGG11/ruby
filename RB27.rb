@@ -1,0 +1,1 @@
+puts /expresión/.class
