@@ -1,15 +1,18 @@
 # Ruby
-Conceptos básicos para el aprendizaje de Ruby.
+Ruby es un lenguaje de programación orientado a objetos, que se caracteriza por ser sencillo y flexible, por lo que facilita mucho su labor para los desarrolladores.
 
+Ruby fue ideado por Yukihiro Matsumoto. Este informático nipón, nacido en 1965 también conocido como Matz y durante algún tiempo misionero mormón, se basó a la hora de crearlo, en otros lenguajes de programación tales como Perl, Smalltalk, ADA y Lisp. Su fin era tratar de construir un lenguaje que, por su limpieza y naturalidad, cumpliera el axioma de “ser sencillo por fuera y su complejidad quedara en su interior”. El lenguaje del que hablamos fue liberado al mundo en 1995. El hecho de ser libre y estar dotado de una gran flexibilidad, permite modificar todo lo que el programador estime pertinente. Y eso incluye las clases ya integradas en la API de Ruby. Es por ello por lo que se ha convertido en uno de los lenguajes preferidos por los desarrolladores.
+
+## Variables y entrada de datos.
 | Tema | Explicación | Ejercicio |
 |---|---|---|
 | Variables |---| [Enlace](https://github.com/kevyder/Ruby/blob/master/src/RB0.rb) |
 | Entrada y Salida de datos |---| [Enlace](https://github.com/kevyder/Ruby/blob/master/src/RB1.rb) |
-| Operadores y orden de preferencia |---| [Enlace](https://github.com/kevyder/Ruby/blob/master/src/RB2.rb) |
 
 ## Operadores.
 | Tema | Explicación | Ejercicio |
 |---|---|---|
+| Operadores y orden de preferencia |---| [Enlace](https://github.com/kevyder/Ruby/blob/master/src/RB2.rb) |
 | Comparacion |---| [Enlace](https://github.com/kevyder/Ruby/blob/master/src/RB3.rb) |
 | Operadores Logicos |---| [Enlace](https://github.com/kevyder/Ruby/blob/master/src/RB4.rb) |
 
